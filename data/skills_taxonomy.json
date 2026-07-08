@@ -1,0 +1,10 @@
+{
+  "programming_languages": ["python", "java", "javascript", "typescript", "c++", "c", "c#", "go", "rust", "sql", "r", "scala", "kotlin", "swift", "php", "matlab"],
+  "ml_ai": ["machine learning", "deep learning", "nlp", "natural language processing", "computer vision", "tensorflow", "pytorch", "keras", "scikit-learn", "sbert", "bert", "transformers", "opencv", "spacy", "huggingface", "langchain", "faiss", "llm", "generative ai", "reinforcement learning", "neural networks", "cnn", "rnn", "lstm"],
+  "data": ["pandas", "numpy", "data analysis", "data visualization", "matplotlib", "seaborn", "power bi", "tableau", "etl", "data engineering", "spark", "hadoop"],
+  "web_backend": ["fastapi", "flask", "django", "rest api", "graphql", "node.js", "express", "microservices", "api development"],
+  "web_frontend": ["react", "angular", "vue", "html", "css", "javascript", "streamlit"],
+  "databases": ["mysql", "postgresql", "mongodb", "sqlite", "oracle", "redis", "elasticsearch", "sql server", "nosql"],
+  "cloud_devops": ["aws", "azure", "gcp", "docker", "kubernetes", "ci/cd", "jenkins", "git", "github", "terraform", "oracle cloud infrastructure"],
+  "soft_skills": ["communication", "leadership", "teamwork", "problem solving", "project management", "collaboration", "agile", "scrum"]
+}

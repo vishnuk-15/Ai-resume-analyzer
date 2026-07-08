@@ -1,0 +1,19 @@
+Vishnuvardhan Karudumpa
+AI/ML Engineer
+
+Summary:
+B.Tech graduate in Computer Science and Engineering with a specialization in AI & ML.
+2+ years of hands-on project experience building NLP and computer vision systems.
+
+Skills: Python, TensorFlow, LangChain, FAISS, spaCy, SBERT, FastAPI, OpenCV, SQL, REST APIs
+
+Projects:
+- AI Resume Analyzer and Job Match Platform: Built an NLP pipeline using spaCy and SBERT
+  to extract skills and score resume-job fit using cosine similarity. Stored data in SQL
+  and exposed results through a Streamlit web interface.
+- Emotion Recognition System (AURAA): Trained a CNN using TensorFlow and OpenCV on the
+  FER2013 dataset for real-time facial emotion detection with recommendation logic.
+- Crop Yield Prediction: Built a Random Forest regression model achieving 92.8% accuracy
+  on agricultural yield data.
+
+Certifications: Oracle Cloud Infrastructure Generative AI Professional

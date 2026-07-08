@@ -1,0 +1,9 @@
+AI/ML Engineer - Job Description
+
+We are looking for an AI/ML Engineer with strong Python skills and experience in
+natural language processing. Familiarity with TensorFlow or PyTorch is required.
+Experience with FastAPI or Flask for building REST APIs is a plus. Knowledge of
+vector databases like FAISS and embedding models (SBERT, BERT) is desired.
+Experience with SQL databases and Docker is beneficial. 2+ years of experience
+preferred. Familiarity with computer vision (OpenCV) and cloud platforms (AWS,
+Azure, or Oracle Cloud Infrastructure) is a strong plus.
